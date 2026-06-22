@@ -94,9 +94,10 @@
 <div data-aos="fade-left" data-aos-duration="1000">
   <p>Explore my work on <a href="https://github.com/HaroonCh1026">GitHub</a>. Here are some highlights:</p>
   <ul>
-    <li><strong>E-Commerce Platform</strong>: Built with Next.js, Node.js, and MongoDB for seamless shopping. (<a href="https://github.com/HaroonCh1026/project1">View Repo</a>)</li>
-    <li><strong>Real-Time Chat App</strong>: Powered by React, Firebase, and Tailwind CSS. (<a href="https://github.com/HaroonCh1026/project2">View Repo</a>)</li>
-    <li><strong>Food Delivery System</strong>: Uses Express.js, PostgreSQL, and Redux. (<a href="https://github.com/HaroonCh1026/project3">View Repo</a>)</li>
+   <li><strong>AI Trip Planner</strong>: AI-powered travel planner for Pakistan built with MERN, TypeScript, and Google Gemini, with a custom-trained ML model for cost validation. (<a href="https://github.com/HaroonCh1026/Ai-Trip-Planner">View Repo</a>)</li>
+<li><strong>MERN Laptop Store</strong>: Full-stack e-commerce app with React, Redux Toolkit, Node.js, and MongoDB, featuring PayPal payments. (<a href="https://github.com/HaroonCh1026/mern-laptop-store">View Repo</a>)</li>
+<li><strong>React Resume Builder</strong>: React SPA with Firebase Authentication and Firestore for building and saving resumes. (<a href="https://github.com/HaroonCh1026/react-resume-builder">View Repo</a>)</li>
+
   </ul>
 </div>
 
