@@ -108,7 +108,7 @@
 ## 📝 Let's Collaborate!
 
 <div align="center" data-aos="zoom-in" data-aos-duration="1000">
-  <p>Interested in coding or gaming together? Reach out via <a href="mailto:haroonryaz1024@gmail.com">email</a> or connect on <a href="https://linkedin.com/in/haroonriaz24">LinkedIn</a>.</p>
+  <p>Interested in coding or gaming together? Reach out via <a href="mailto:haroonryaz1024@gmail.com">email</a> or connect on <a href="https://www.linkedin.com/in/haroon-riaz-7513672b1/">LinkedIn</a>.</p>
   <a href="https://twitter.com/haroonriaz24">
     <img src="https://img.shields.io/twitter/follow/haroonriaz24?logo=twitter&style=for-the-badge" alt="Twitter Follow">
   </a>
