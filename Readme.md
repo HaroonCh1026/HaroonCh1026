@@ -97,6 +97,8 @@
    <li><strong>AI Trip Planner</strong>: AI-powered travel planner for Pakistan built with MERN, TypeScript, and Google Gemini, with a custom-trained ML model for cost validation. (<a href="https://github.com/HaroonCh1026/Ai-Trip-Planner">View Repo</a>)</li>
 <li><strong>MERN Laptop Store</strong>: Full-stack e-commerce app with React, Redux Toolkit, Node.js, and MongoDB, featuring PayPal payments. (<a href="https://github.com/HaroonCh1026/mern-laptop-store">View Repo</a>)</li>
 <li><strong>React Resume Builder</strong>: React SPA with Firebase Authentication and Firestore for building and saving resumes. (<a href="https://github.com/HaroonCh1026/react-resume-builder">View Repo</a>)</li>
+<li><strong>E-Book Store</strong>: Full-stack MERN app for browsing, favoriting, and ordering e-books, with JWT authentication and an admin panel for catalog and order management. (<a href="https://github.com/HaroonCh1026/E-BookStore-Mern">View Repo</a>)</li>
+<li><strong>PixelFlow Marketing Website</strong>: Responsive marketing site built with React, Tailwind CSS, and Vite, featuring four pages and a Web3Forms-powered contact form. (<a href="https://pixel-flow-marketing-website-cz9w.vercel.app/">Live Demo</a>)</li>
 
   </ul>
 </div>
