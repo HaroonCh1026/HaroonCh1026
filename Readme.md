@@ -47,22 +47,13 @@
 ## 🌐 Connect With Me
 
 <div align="center" data-aos="zoom-in" data-aos-duration="1000">
-  <a href="https://youtube.com/your-youtube-username" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" class="animate__animated animate__pulse animate__infinite">
-  </a>
   <a href="https://instagram.com/haroonriaz24" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" class="animate__animated animate__pulse animate__infinite">
-  </a>
-  <a href="https://twitch.tv/your-twitch-username" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitch" class="animate__animated animate__pulse animate__infinite">
-  </a>
-  <a href="https://discord.com/your-discord-username" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" class="animate__animated animate__pulse animate__infinite">
   </a>
   <a href="mailto:haroonryaz1024@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" class="animate__animated animate__pulse animate__infinite">
   </a>
-  <a href="https://linkedin.com/in/haroonriaz24" target="_blank">
+  <a href="https://www.linkedin.com/in/haroon-riaz-7513672b1/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" class="animate__animated animate__pulse animate__infinite">
   </a>
 </div>
