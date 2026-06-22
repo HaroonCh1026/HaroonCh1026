@@ -22,7 +22,7 @@
   <p>
     💬 <strong>Ask me about:</strong> React.js, Next.js, MongoDB, or gaming strategies! <br>
     📫 <strong>Reach me at:</strong> <a href="mailto:haroonryaz1024@gmail.com">haroonryaz1024@gmail.com</a> <br>
-    📄 <strong>My Experience:</strong> <a href="https://1drv.ms/w/c/b8208a138839bf5e/ETRxxwPhNJ9MonvpCq6FJzQBtj2iEfUqyA1wGFwPmJa9Mw?e=Mtwmyn">View Resume</a> <br>
+    📄 <strong>My Experience:</strong> <a href="https://1drv.ms/b/c/b8208a138839bf5e/IQAJRkxypjaUQaKZUGRcG0fSAcFcJ9pGLBxClOEOWAUJI_Y?e=srIKbx">View Resume</a> <br>
     ⚡ <strong>Fun Fact:</strong> I love debugging code and chasing high scores in games! 🐞🎮
   </p>
 </div>
